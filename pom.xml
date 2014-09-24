@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.cmu.lti.11791.f14.hw1</groupId>
   <artifactId>hw1-alokkoth</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version>
   <repositories>
     <repository>
       <id>oaqa</id>
@@ -113,6 +113,6 @@
   <scm>
   	<connection>scm:git:git@github.com:akcarmel/se-hw-1.git</connection>
   	<developerConnection>scm:git:git@github.com:akcarmel/se-hw-1.git</developerConnection>
-    <tag>hw1-alokkoth-0.0.2</tag>
+    <tag> git:git@github.com:akcarmel/se-hw-1.git</tag>
   </scm>
 </project>
