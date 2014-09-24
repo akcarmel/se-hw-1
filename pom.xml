@@ -113,6 +113,6 @@
   <scm>
   	<connection>scm:git:git@github.com:akcarmel/se-hw-1.git</connection>
   	<developerConnection>scm:git:git@github.com:akcarmel/se-hw-1.git</developerConnection>
-    <tag> git:git@github.com:akcarmel/se-hw-1.git</tag>
+    <tag> hw1-alokkoth-0.0.3</tag>
   </scm>
 </project>
